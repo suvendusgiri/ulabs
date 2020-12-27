@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import AboutUs from './components/AboutUs';
 import Banner from './components/Banner';
+import Career from './components/Career';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import Header from './components/Header';
@@ -19,6 +20,7 @@ class App extends Component {
         <Services />
         <Technologies />
         <AboutUs />
+        <Career />
         <ContactUs />
         <Footer />
       </div>

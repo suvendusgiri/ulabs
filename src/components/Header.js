@@ -66,6 +66,9 @@ class Header extends Component {
                                                     <li id="li_about_us">
                                                         <a href="#">About Us</a>
                                                     </li>
+                                                    <li id="li_career">
+                                                        <a href="#">Career</a>
+                                                    </li>
                                                     <li id="li_contact_us">
                                                         <a href="#">Contact Us</a>
                                                     </li>

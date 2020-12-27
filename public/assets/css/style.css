@@ -7134,7 +7134,27 @@ ul.tweets li span {
 	padding-bottom: 50px;
 }
 
+#dv_career {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
 #dv_contact_us {
 	padding-top: 100px;
 	padding-bottom: 50px;
+}
+
+.job-opening-light {
+	padding: 10px 20px;
+	border: solid 1px rgb(235, 232, 232);
+	margin-bottom: 10px;
+	/* box-shadow: 1px -1px 10px 1px #ccc; */
+}
+
+.job-opening-dark {
+	background-color: rgb(221, 219, 219);
+	/* border: solid 1px rgb(179, 179, 179); */
+	padding: 10px 20px;
+	/* box-shadow: 3px 3px 5px 6px #ccc; */
+	margin-bottom: 10px;
 }

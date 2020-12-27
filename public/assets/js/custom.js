@@ -25,6 +25,11 @@ $(document).ready(function () {
             scrollTop: $("#dv_about_us").offset().top
         }, 1000);
     });
+    $("#li_career").click(function () {
+        $('html, body').animate({
+            scrollTop: $("#dv_career").offset().top
+        }, 1000);
+    });
     $("#li_contact_us").click(function () {
         $('html, body').animate({
             scrollTop: $("#dv_contact_us").offset().top
