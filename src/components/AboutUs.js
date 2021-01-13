@@ -8,13 +8,13 @@ class AboutUs extends Component {
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1 class="text-center title">About Us</h1>
+                                <h1 class="text-center title">Who We Are</h1>
                                 <div class="separator"></div>
                                 <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                 <br />
                                 <div class="row">
                                     <div class="col-md-8">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                                        <p>We are a team of experienced industry experts sharing a common goal to provide optimum solutions to any problem. We are experienced &amp; passionate to create sophisticated and scalable applications for any business.</p>
                                         <h3>Uspendisse id sem elementum condimentum lorem</h3>
                                         <p>Sed eget pulvinar quam, vel feugiat enim. Aliquam erat volutpat. Phasellus eu porta ipsum. Suspendisse aliquet imperdiet commodo. Aenean vel lacinia elit. Class aptent taciti sociosqu ad litora torquent per. Vestibulum velmo.</p>
                                         <ul class="list-icons">

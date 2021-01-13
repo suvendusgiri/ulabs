@@ -18,10 +18,9 @@ class Header extends Component {
                                 </div>
 
                                 {/* <!-- name-and-slogan --> */}
-                                <div class="site-slogan text-right">
+                                {/* <div class="site-slogan text-right">
                                     . . . Ideas To Reality
-                            </div>
-
+                                </div> */}
                             </div>
                             {/* <!-- header-left end --> */}
 
@@ -58,16 +57,16 @@ class Header extends Component {
                                                         <a href="#">Home</a>
                                                     </li>
                                                     <li id="li_services">
-                                                        <a href="#">Services</a>
+                                                        <a href="#">What We Do</a>
                                                     </li>
-                                                    <li id="li_technologies">
+                                                    {/* <li id="li_technologies">
                                                         <a href="#">Technologies</a>
-                                                    </li>
+                                                    </li> */}
                                                     <li id="li_about_us">
-                                                        <a href="#">About Us</a>
+                                                        <a href="#">Who We Are</a>
                                                     </li>
                                                     <li id="li_career">
-                                                        <a href="#">Career</a>
+                                                        <a href="#">Why Join Us</a>
                                                     </li>
                                                     <li id="li_contact_us">
                                                         <a href="#">Contact Us</a>

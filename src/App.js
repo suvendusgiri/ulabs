@@ -18,7 +18,7 @@ class App extends Component {
         <Banner />
         <WhyChooseUs />
         <Services />
-        <Technologies />
+        {/* <Technologies /> */}
         <AboutUs />
         <Career />
         <ContactUs />

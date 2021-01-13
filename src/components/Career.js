@@ -8,7 +8,7 @@ class Career extends Component {
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1 class="text-center title">Career</h1>
+                                <h1 class="text-center title">Why Join Us</h1>
                                 <div class="separator"></div>
                                 <blockquote><p>Pleasure in the job <br />puts perfection in the work</p>
                                     <footer><cite title="Source Title">Aristotle</cite></footer>

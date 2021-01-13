@@ -8,7 +8,7 @@ class Services extends Component {
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1 class="text-center title">Services</h1>
+                                <h1 class="text-center title">What We Do</h1>
                                 <div class="separator"></div>
                                 <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                 <div class="row grid-space-10">
