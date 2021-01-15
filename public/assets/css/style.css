@@ -7151,6 +7151,9 @@ ul.tweets li span {
 .job-opening-light {
 	padding: 10px 20px;
 	border: solid 1px rgb(235, 232, 232);
+	border-left: none;
+	border-right: none;
+	border-top: none;
 	margin-bottom: 10px;
 	/* box-shadow: 1px -1px 10px 1px #ccc; */
 }
@@ -7161,4 +7164,9 @@ ul.tweets li span {
 	padding: 10px 20px;
 	/* box-shadow: 3px 3px 5px 6px #ccc; */
 	margin-bottom: 10px;
+}
+
+.tag-line {
+	font-style: italic;
+	font-family: sans-serif;
 }

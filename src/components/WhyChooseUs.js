@@ -18,7 +18,7 @@ class WhyChooseUs extends Component {
                             <div class="row">
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fas fa-tools"></i></div>
+                                        <div class="box block"><i class="icofont-unique-idea"></i></div>
                                         <h2>Disruptive Innovation &amp; Cutting-edge Technologies</h2>
                                         <p class="text-muted">Highly innovative solutions require cutting edge technologies. We have Tech Experts to address any kind of technological challenegs.</p>
                                         {/* <a href="page-services.html" class="link-dark">Read More</a> */}
@@ -26,7 +26,7 @@ class WhyChooseUs extends Component {
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fa fa-laptop"></i></div>
+                                        <div class="box block"><i class="icofont-people"></i></div>
                                         <h2>Energetic Team of Enthusiastic Professionals</h2>
                                         <p class="text-muted">Our team of energetic, motivated, tech enthusiastic professionals always eager to take up any challenge to achive the end goal.</p>
                                         {/* <a href="page-services.html" class="link-dark">Read More</a> */}
@@ -34,7 +34,7 @@ class WhyChooseUs extends Component {
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fa fa-sitemap"></i></div>
+                                        <div class="box block"><i class="fa fa-eye"></i></div>
                                         <h2>Transparency, Trust &amp; Timeliness</h2>
                                         <p class="text-muted">These 3 Ts' are the building blocks of a positive relation. Accountability makes the bond strong further. </p>
                                         {/* <a href="page-services.html" class="link-dark">Read More</a> */}
@@ -44,26 +44,26 @@ class WhyChooseUs extends Component {
                             <div class="row">
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fa fa-bold"></i></div>
+                                        <div class="box block"><i class="icofont-handshake-deal"></i></div>
                                         <h2>Collaborative</h2>
-                                        <p class="text-muted">Voluptatem ad provident non <a href="#">repudiandae</a> veritatis beatae cupiditate amet reiciendis.</p>
-                                        <a href="page-services.html" class="link-dark">Read More</a>
+                                        <p class="text-muted">Why achieve little, when we can achive bigger together! A thoughtful, committed group of people can achive things beyond imagination.</p>
+                                        {/* <a href="page-services.html" class="link-dark">Read More</a> */}
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fa fa-check"></i></div>
-                                        <h2>Friendly</h2>
-                                        <p class="text-muted">Iure sequi unde hic. Sapiente quaerat labore sequi inventore veritatis cumque.</p>
-                                        <a href="page-services.html" class="link-dark">Read More</a>
+                                        <div class="box block"><i class="icofont-law-document"></i></div>
+                                        <h2>Accountability</h2>
+                                        <p class="text-muted">Individual committment to a group effort and staying accountable of the responsibilities helps reaching the goal quicker.</p>
+                                        {/* <a href="page-services.html" class="link-dark">Read More</a> */}
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="text-center space">
-                                        <div class="box block"><i class="fa fa-question-circle"></i></div>
+                                        <div class="box block"><i class="icofont-live-support"></i></div>
                                         <h2>Just a call/text away</h2>
-                                        <p class="text-muted">Inventore dolores aut laboriosam cum consequuntur delectus sequi.</p>
-                                        <a href="page-services.html" class="link-dark">Read More</a>
+                                        <p class="text-muted">We fail, when you fail. Problems, whether a small one or bigger, we are always there to help you</p>
+                                        {/* <a href="page-services.html" class="link-dark">Read More</a> */}
                                     </div>
                                 </div>
                             </div>

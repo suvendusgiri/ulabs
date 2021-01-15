@@ -4,6 +4,47 @@ class Footer extends Component {
     render() {
         return (
             <footer id="footer">
+                <div class="section gray-bg text-muted footer-top clearfix">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="owl-carousel clients">
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-1.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-2.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-3.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-4.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-5.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-6.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-7.png" alt="" /></a>
+                                    </div>
+                                    <div class="client">
+                                        <a href="#"><img src="assets/images/client-8.png" alt="" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <blockquote class="inline">
+                                    <p class="margin-clear">Design is not just what it looks like and feels like. Design is how it works.</p>
+                                    <footer><cite title="Source Title">Steve Jobs </cite></footer>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 {/* <!-- .footer start --> */}
                 <div class="footer">
                     <div class="container">
@@ -45,86 +86,6 @@ class Footer extends Component {
                                 </div>
                             </div>
                             <div class="space-bottom hidden-lg hidden-xs"></div>
-
-                            {/* <div class="col-sm-6 col-md-2">
-                                <div class="footer-content">
-                                    <h2>Latest Projects</h2>
-                                    <div class="gallery row">
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-1.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-2.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-3.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-4.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-5.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-6.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-7.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-8.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item col-xs-4">
-                                            <div class="overlay-container">
-                                                <img src="assets/images/gallery-9.jpg" alt="" />
-                                                <a href="portfolio-item.html" class="overlay small">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> */}
                         </div>
                         <div class="space-bottom hidden-lg hidden-xs"></div>
                     </div>
@@ -152,7 +113,7 @@ class Footer extends Component {
                                     <div class="collapse navbar-collapse" id="navbar-collapse-2">
                                         <ul class="nav navbar-nav">
                                             <li><a href="#">Home</a></li>
-                                            <li><a href="#">Services</a></li>
+                                            <li><a id="li_services">Services</a></li>
                                             <li><a href="#">Technologies</a></li>
                                             <li><a href="#">About Us</a></li>
                                             <li><a href="#">Contact Us</a></li>
