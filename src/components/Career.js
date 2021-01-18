@@ -34,7 +34,7 @@ class Career extends Component {
                             <h2>Current Openings</h2>
                             <div class="job-opening-light">
                                 <h3>Software Engineer - MERN Stack</h3>
-                                <p>We are looking for a dynamic, tech enthusiastic profession with 1-2 years of relevant experience in MERN stack.</p>
+                                <p>We are looking for a dynamic, tech enthusiastic professional with 1-2 years of relevant experience in MERN stack.</p>
                                 <ul class="list-icons">
                                     <li class="object-non-visible" data-animation-effect="fadeInUpSmall"><i class="icon-check"></i> 5+ years of experience</li>
                                     <li class="object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100"><i class="icon-check"></i> Sound knowledge of Node using ExpressJS or/and NestJS </li>

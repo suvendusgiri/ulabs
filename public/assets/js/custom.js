@@ -15,12 +15,17 @@ $(document).ready(function () {
             scrollTop: $("#dv_services").offset().top
         }, 1000);
     });
-    $("#li_technologies").click(function () {
+    $("#li_services_footer").click(function () {
         $('html, body').animate({
-            scrollTop: $("#dv_technologies").offset().top
+            scrollTop: $("#dv_services").offset().top
         }, 1000);
     });
     $("#li_about_us").click(function () {
+        $('html, body').animate({
+            scrollTop: $("#dv_about_us").offset().top
+        }, 1000);
+    });
+    $("#li_about_us_footer").click(function () {
         $('html, body').animate({
             scrollTop: $("#dv_about_us").offset().top
         }, 1000);
@@ -30,7 +35,17 @@ $(document).ready(function () {
             scrollTop: $("#dv_career").offset().top
         }, 1000);
     });
+    $("#li_career_footer").click(function () {
+        $('html, body').animate({
+            scrollTop: $("#dv_career").offset().top
+        }, 1000);
+    });
     $("#li_contact_us").click(function () {
+        $('html, body').animate({
+            scrollTop: $("#dv_contact_us").offset().top
+        }, 1000);
+    });
+    $("#li_contact_us_footer").click(function () {
         $('html, body').animate({
             scrollTop: $("#dv_contact_us").offset().top
         }, 1000);

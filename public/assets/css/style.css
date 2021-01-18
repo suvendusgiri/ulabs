@@ -7170,3 +7170,12 @@ ul.tweets li span {
 	font-style: italic;
 	font-family: sans-serif;
 }
+
+.world-map {
+	height: 500px;
+	background-image: url("../images/world-map-grey.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	/* padding-top: 50px; */
+	background-origin: content-box;
+}
