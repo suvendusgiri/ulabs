@@ -20,7 +20,7 @@ class WhyChooseUs extends Component {
                                     <div class="text-center space">
                                         <div class="box block"><i class="icofont-unique-idea"></i></div>
                                         <h2>Disruptive Innovation &amp; Cutting-edge Technologies</h2>
-                                        <p class="text-muted">Highly innovative solutions require cutting edge technologies. We have Tech Experts to address any kind of technological challenegs.</p>
+                                        <p class="text-muted">Highly innovative solutions require cutting edge technologies. We have Tech Experts to address any kind of technological challenges.</p>
                                         {/* <a href="page-services.html" class="link-dark">Read More</a> */}
                                     </div>
                                 </div>
